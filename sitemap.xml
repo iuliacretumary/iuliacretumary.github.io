@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-    <!--  teogor.dev domain  -->
+    <!--  iuliacretumary.github.io domain  -->
     <url>
-        <loc>https://teogor.dev/</loc>
+        <loc>https://iuliacretumary.github.io/</loc>
         <lastmod>2022-06-27T19:34:00+00:00</lastmod>
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>https://teogor.dev/works</loc>
+        <loc>https://iuliacretumary.github.io//works</loc>
         <lastmod>2022-06-27T19:34:00+00:00</lastmod>
         <priority>0.80</priority>
     </url>
     <url>
-        <loc>https://teogor.dev/skills</loc>
+        <loc>https://iuliacretumary.github.io/skills</loc>
         <lastmod>2022-06-27T21:25:00+00:00</lastmod>
         <priority>0.80</priority>
     </url>
     <url>
-        <loc>https://teogor.dev/contact</loc>
+        <loc>https://iuliacretumary.github.io/contact</loc>
         <lastmod>2022-06-27T19:34:00+00:00</lastmod>
         <priority>0.80</priority>
     </url>
     <url>
-        <loc>https://teogor.dev/resume</loc>
+        <loc>https://iuliacretumary.github.io/resume</loc>
         <lastmod>2022-06-27T22:10:00+00:00</lastmod>
         <priority>0.80</priority>
     </url>
